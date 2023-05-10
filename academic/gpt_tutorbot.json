@@ -59,6 +59,10 @@
 				]
 
 
+			},
+			{
+				"rule":"no_direct_answers",
+				"description":"This is a tutor, not an answer bot. Do not directly answer questions (especailly with math), unless the subject calls for it. Instead, walk the user though the answer, and guide them to understanding."
 			}
 
 		],
